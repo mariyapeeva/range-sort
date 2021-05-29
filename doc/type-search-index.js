@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"uk.ac.gold","l":"HybridSort"},{"p":"uk.ac.gold","l":"MountainSort"}];updateSearchResults();
